@@ -12,12 +12,12 @@ Japan🇯🇵 and e-Residency of Estonia🇪🇪
 
 
 ## 🛠 Skills
-### mobile
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)<img src="https://img.shields.io/badge/-Flutter-6BBAE7.svg?logo=flutter&style=flat"><img src="https://img.shields.io/badge/-Ionic-292929.svg?logo=ionic&style=flat">
-### front end
-<img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat"><img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat"><img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat"><img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat"><img src="https://img.shields.io/badge/-Angular-DD0031.svg?logo=angular&style=flat"><img src="https://img.shields.io/badge/-Nuxt.js-00C58E.svg?logo=nuxt.js&style=flat"><img src="https://img.shields.io/badge/-Vue.js-4FC08D.svg?logo=vue.js&style=flat">
-### back end
-<img src="https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat"><img src="https://img.shields.io/badge/-Laravel-fff.svg?logo=laravel&style=flat">
+### language
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)<img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat"><img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat"><img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat"><img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat"><img src="https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat">
+
+### framework
+<img src="https://img.shields.io/badge/-Flutter-6BBAE7.svg?logo=flutter&style=flat"><img src="https://img.shields.io/badge/-Ionic-292929.svg?logo=ionic&style=flat"><img src="https://img.shields.io/badge/-Angular-DD0031.svg?logo=angular&style=flat"><img src="https://img.shields.io/badge/-Nuxt.js-00C58E.svg?logo=nuxt.js&style=flat"><img src="https://img.shields.io/badge/-Vue.js-4FC08D.svg?logo=vue.js&style=flat"><img src="https://img.shields.io/badge/-Laravel-fff.svg?logo=laravel&style=flat">
+
 ### others
 <img src="https://img.shields.io/badge/-Firebase-FFCA28.svg?logo=firebase&style=flat"><img src="https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat"><img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat"><img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">
 
