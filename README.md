@@ -13,7 +13,7 @@ Japan🇯🇵 and e-Residency of Estonia🇪🇪
 
 ## 🛠 Skills
 ### language 
-<img src="https://img.shields.io/badge/-dart-292929.svg?logo=dart&style=flat"> <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat"> <img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat"> <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat"> <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat"> <img src="https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat">
+<img src="https://img.shields.io/badge/-Dart-292929.svg?logo=dart&style=flat"> <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat"> <img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat"> <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat"> <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat"> <img src="https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat">
 
 ### framework
 <img src="https://img.shields.io/badge/-Flutter-6BBAE7.svg?logo=flutter&style=flat"> <img src="https://img.shields.io/badge/-Ionic-292929.svg?logo=ionic&style=flat"> <img src="https://img.shields.io/badge/-Angular-DD0031.svg?logo=angular&style=flat"> <img src="https://img.shields.io/badge/-Nuxt.js-00C58E.svg?logo=nuxt.js&style=flat"> <img src="https://img.shields.io/badge/-Vue.js-4FC08D.svg?logo=vue.js&style=flat"> <img src="https://img.shields.io/badge/-Laravel-fff.svg?logo=laravel&style=flat">
